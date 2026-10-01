@@ -7,7 +7,10 @@
 I build React and Next.js applications with a focus on  
 frontend architecture, rendering performance, and browser compatibility.
 
-✉️ [Email](mailto:cvnefr7704@gmail.com) &nbsp; · &nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/kmscv)
+When needed, I also build backend features and set up deployment infrastructure.
+
+[![Email: cvnefr7704@gmail.com](https://img.shields.io/badge/cvnefr7704%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cvnefr7704@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/kmscv)
 
 </div>
 
@@ -15,14 +18,14 @@ frontend architecture, rendering performance, and browser compatibility.
 
 ## ⚡ What I work on
 
-- **Rendering & realtime interfaces**  
-  Improving rendering performance and resolving browser compatibility issues in HLS players and WebRTC interfaces with frequent state updates.
+- **Web video players & realtime interfaces**  
+  Building Video.js and HLS players with custom controls, keyboard interactions, and browser compatibility fixes, and improving rendering performance in WebRTC interfaces.
 
-- **Application foundations**  
-  Building shared components, Turborepo monorepos, CI/CD pipelines, and deployment environments, alongside React Native application architecture.
+- **Application foundations & delivery**  
+  Building shared components, React Native application foundations, and Turborepo monorepos, with automated testing and deployment workflows.
 
-- **AI integration & developer workflows**  
-  Building features with LLM APIs and using Cursor Rules and MCP to improve team development workflows.
+- **AI integration & workflows**  
+  Integrating LLM APIs into products, configuring project rules and MCP tools for development, and organizing sub-agents for document drafting and review.
 
 <br>
 
@@ -32,43 +35,55 @@ frontend architecture, rendering performance, and browser compatibility.
 
 A web app that generates Korean lottery number combinations from natural-language preferences.
 
-🌐 [Website](https://www.cloverpick.com) &nbsp; · &nbsp; 💻 [Repository](https://github.com/DevMinsuKim/clover-pick)
+[![Website](https://img.shields.io/badge/Website-15803D?style=flat-square)](https://www.cloverpick.com)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevMinsuKim/clover-pick)
 
 <br>
 
-## 🛠️ Tools I use
+## 🛠️ Tech Stack & Workflows
 
-**Frontend**
+**Frontend & Mobile**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 
-**Media & Graphics**
-
-![HLS](https://img.shields.io/badge/HLS-E34F26?style=flat-square)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-
-**State & Data**
+**State & Validation**
 
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
+![Jotai](https://img.shields.io/badge/Jotai-334155?style=flat-square)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+
+**UI & Testing**
+
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Chromatic](https://img.shields.io/badge/Chromatic-FC521F?style=flat-square&logo=chromatic&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL on Neon](https://img.shields.io/badge/PostgreSQL%20%28Neon%29-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-**Delivery & Quality**
+**Build & Deployment**
 
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-**AI & Developer Tools**
+**Web Media & Realtime**
 
-![AI SDK](https://img.shields.io/badge/AI%20SDK-111827?style=flat-square)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Video.js](https://img.shields.io/badge/Video.js-167D8D?style=flat-square)
+![HLS](https://img.shields.io/badge/HLS-E34F26?style=flat-square)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+
+**AI Workflows**
+
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-475569?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-303030?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Sub-agent Workflows](https://img.shields.io/badge/Sub--agent%20Workflows-6D28D9?style=flat-square)
