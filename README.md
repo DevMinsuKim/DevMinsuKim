@@ -36,7 +36,6 @@ When needed, I also build backend features and set up deployment infrastructure.
 A web app that generates Korean lottery number combinations from natural-language preferences.
 
 [![Website](https://img.shields.io/badge/Website-15803D?style=flat-square)](https://www.cloverpick.com)
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevMinsuKim/clover-pick)
 
 <br>
 
